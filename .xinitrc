@@ -35,6 +35,6 @@ fi
 dunst &
 picom --experimental-backend &
 ~/.fehbg &
-sh /home/dan/.srcs/dwmbar/dwm_bar.sh &
+sh /home/dan/.config/dwmbar/dwm_bar.sh &
 
 exec startdwm 
